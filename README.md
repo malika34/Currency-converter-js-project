@@ -30,11 +30,11 @@ The app fetches **real-time exchange rates** from an API and allows users to con
 
 currency-converter/
 │
-├── index.html # Main HTML file
-├── style.css # All CSS styles
-├── script.js # Main JavaScript logic
-├── # Images/icons (if any)
-└── README.md # Project documentation
+├── index.html — Main HTML file
+├── style.css — CSS styles
+├── script.js — JavaScript logic
+├── assets/ — Images & icons (optional)
+└── README.md — Project documentation
 
 ---
 
@@ -74,3 +74,28 @@ currency-converter/
 ```bash
 https://api.exchangerate.host/latest?base=USD&symbols=EUR
 ```
+
+🚀 Setup & Installation
+Clone the repository
+
+```bash
+git clone https://github.com/malika34/Currency-converter-js-project.git
+
+```
+
+1. Open `index.html` in your browser.
+2. No server setup is required — this is a pure frontend project.
+3. Start converting currencies 🎉
+
+## 🎯 Learning Outcomes
+
+Through this project, I learned:
+
+- How to fetch real-time data from APIs
+- Basics of working with API keys
+- Practical integration of frontend and backend for real-world usage
+- How to convert Figma designs into real HTML/CSS/JS
+- How to fetch and display API data in the browser
+- How to manipulate the DOM dynamically
+- How to create a responsive design for multiple devices
+- How to structure and document a frontend project
