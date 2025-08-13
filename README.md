@@ -24,20 +24,6 @@ The app fetches **real-time exchange rates** from an API and allows users to con
 - **Exchange Rate API** – For real-time currency data
 - **Figma** – Original design source
 
----
-
-## 📂 Project Structure
-
-currency-converter/
-│
-├── index.html — Main HTML file
-├── style.css — CSS styles
-├── script.js — JavaScript logic
-├── assets/ — Images & icons (optional)
-└── README.md — Project documentation
-
----
-
 ## 🔍 How It Works
 
 ### 1️⃣ HTML (index.html)
